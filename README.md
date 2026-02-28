@@ -1,8 +1,5 @@
 # Welcome to my GitHub main page
 
-- You can call me Panzi. I love open source. ❤️
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/fsy2020" target="_blank">
