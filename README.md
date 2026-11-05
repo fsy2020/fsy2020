@@ -1,5 +1,7 @@
 # Welcome to my GitHub main page
 
+focus on AI agent's memory.
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/fsy2020" target="_blank">
