@@ -1,7 +1,12 @@
 # Welcome to my GitHub main page
 
-focus on AI agent's memory.
+Hi there! I'm Siyuan.
 
+I'm currently focusing on developing AI Agent memory systems at iFLYTEK.
+
+Previously, I worked at Ricoh Company, Ltd. from 2024 to 2026.
+
+I'm fluent in Chinese, Japanese, and English.
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/fsy2020" target="_blank">
